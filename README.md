@@ -6,7 +6,7 @@ Swiftly generate Software Development Life Cycle (SDLC) and Entity-Relationship 
 Intuitive chatbot interface for easy input of requirements.
 Powered by advanced language learning models for accurate and context-aware diagram generation.
 Installation:
-Clone the repository: git clone https://github.com/your-username/diagramgenius.git
+Clone the repository: git clone https://github.com/ipuneetgupta/diagramgenius.git
 Install the required dependencies: pip install -r requirements.txt
 Usage:
 Run the main application: python app.py
