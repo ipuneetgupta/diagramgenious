@@ -1,0 +1,11 @@
+version: '3.5'
+
+services:
+  diagramgenious:
+    image: diagramgenious-webui
+    container_name: diagramgenious-webui-1
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1338:1338"
